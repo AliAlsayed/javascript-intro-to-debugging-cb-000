@@ -1,1 +1,5 @@
-const name = 'ali';
+//const name = 'ali';
+
+function sayHey(){
+  return 'Hey!'
+}
